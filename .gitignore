@@ -1,0 +1,6 @@
+*.o
+*.exe
+privatekey.json
+Makefile.win
+ReverseConnector.layout
+/bin/*

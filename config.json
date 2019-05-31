@@ -1,0 +1,11 @@
+{
+	"click2syncendpoint":"https://api.click2sync.com",
+	"opensslcacertpath":"C:\\c2ssrvc\\cacert.pem",
+	"privatekeypath":"C:\\c2ssrvc\\privatekey.json",
+	"contpaqiempresapath":"C:\\Compacw\\Empresas\\test",
+	"executionmode":"debug",
+	"servicename":"Click2Sync Service",
+	"contpaqidllfile":"MGW_SDK.dll",
+	"log":"stdout",
+	"logpath":"C:\\c2ssrvc\\logs\\logs.txt"
+}
